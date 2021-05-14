@@ -1,0 +1,241 @@
+
+.div1{
+    text-align: center;
+    margin-left: 20px;
+    color: rgb(194, 193, 190);
+    font-size: 70px;
+    font-style:italic;   
+    font-weight:lighter;
+    margin-top: 100px;
+}
+.p2{
+    font-size: 70px;
+}
+ .p1 a:hover{
+    background-color: gray;
+} 
+.a1{
+    font-size: 40px;
+    font-style: normal;
+    color:whitesmoke;
+    text-decoration: none;
+    border: solid gainsboro;
+    padding: 10px;   
+    
+}
+.nav1 a{
+    text-decoration: none;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 5px;
+    border: solid wheat;
+    background-color: rgb(23, 89, 109);
+    float: right;
+    color:whitesmoke;
+
+}
+.body1{
+    background-image:url("bg2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 150% 230%;
+    background-position: center;
+}
+
+.a2{
+    font-style: normal;
+    color:whitesmoke;
+    text-decoration: none;
+    margin-left: 10px;  
+    border: solid skyblue;      
+}
+.footer1{
+   padding-top: 10px;
+   margin-left: 500px; 
+   margin-top: 150px;
+}
+ .pA{
+    background-image: url("bg2.jpg");
+    background-size: 350% 350% ;
+    background-repeat: no-repeat;
+    padding: 40px;
+    text-decoration: none;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    margin-top: 100px;
+    float: left;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    
+}
+.pB{
+    background-image: url("bg2.jpg") ;
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+   
+    padding: 40px;
+    text-decoration: none;
+    font-size:large;
+    color: white;
+    font-weight: bold;
+    margin-top: 100px;
+    float: right;
+    margin-right: 200px;
+   margin-bottom: 100px;
+    
+    
+   
+}
+  
+.about{
+    padding: 50px;
+    /* margin-top: 10px;
+    margin-bottom: 20px; */
+    text-align: center;
+    margin-bottom: 10%;
+
+    
+} 
+.footer1 a:hover{
+    background-color: cadetblue;
+}
+.body2{
+   background-image: url("neonblue.jpeg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+  
+
+} 
+.pAbout{
+    text-align: center;
+    font-size:30px;
+    color:rgb(235, 243, 247);
+    font-style:italic ;
+    font-weight:normal;
+    padding: 10px;
+
+}
+
+.h1{
+    color: rgb(191, 197, 196);
+    font-size: 35px;
+    
+}
+.AboutB{
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 330% 430%;
+    background-size: cover;
+   
+
+
+}
+.a3{
+    font-size: 20px;
+    font-style: normal;
+    color:whitesmoke;
+    text-decoration: none;
+    border: solid gainsboro;
+    padding: 10px;   
+}
+.a3:hover{
+    background-color: gray;
+
+}
+.footer2{
+    padding: 5px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    border: none;
+}
+.aboutNav{
+    float: right;
+ 
+
+}
+.notes{
+    float: right;
+    color: white;
+    font-size: 18px;
+    background-image: url("te.jpeg");
+    background-size: 120% 230%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    /* margin-right: 20px;
+    padding: 5px; */
+    margin-top: 0%;
+   
+    
+    
+}
+.aboutme{
+    
+    color: rgb(224, 213, 213);
+    font-size: 30px;
+    margin-top: 30px;
+    margin-right:300px ;
+    float: right;
+
+}
+
+.blog{
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 330% 430%;
+    background-size: cover;
+   
+
+}
+
+.a{
+    color: cornsilk;
+
+}
+.ab{
+    color: cornsilk;
+
+}
+.project{
+    
+    margin-right:440px ;
+    margin-top: 330px;
+}
+.projectnav{
+    float: right;
+}
+
+.content{
+    font-size: 20px; 
+    text-align: center;
+    margin-left: 80px;
+    
+}
+.myheading{
+    font-size:65px;
+    color:rgb(3, 33, 61);
+   margin-right: 100px;
+   margin-top: 0px;
+   float: right;
+  
+}
+.aEducation{
+    border:solid rgb(3, 16, 36) ;
+    font-weight: lighter;
+    font-size: x-large;
+    text-decoration: none;
+ 
+}
+.quote{
+    font-style: italic;
+    font-size:20px ;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+.masculinitybody{
+    background-color: rgb(230, 221, 221);
+    border: 20px;
+}
